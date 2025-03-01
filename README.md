@@ -9,11 +9,11 @@ This project aims to develop a robust toolkit for detecting killer whale (orca) 
 
 | **Task**                              | **Duration** | **Deadline**       | **Status**          |
 |---------------------------------------|--------------|--------------------|---------------------|
-| Data segmentation and feature extraction | 1 month      | [Insert Deadline]  | 🟡 In Progress      |
-| Building the Graph representation     | 2 weeks      | [Insert Deadline]  | 🔴 Not Started      |
-| Investigation of encoder architectures | 2 months     | [Insert Deadline]  | 🔴 Not Started      |
-| Build classification layer            | 1 month      | [Insert Deadline]  | 🔴 Not Started      |
-| Summarizing results and writing report | 1 month      | [Insert Deadline]  | 🔴 Not Started      |
+| Data segmentation and feature extraction | 1 month      | April 13th,2025  | 🟡 In Progress      |
+| Building the Graph representation     | 2 weeks      | April 27th,2025  | 🔴 Not Started      |
+| Investigation of encoder architectures | 2 months     | June 27th,2025  | 🔴 Not Started      |
+| Build classification layer            | 1 month      | July 27th,2025  | 🔴 Not Started      |
+| Summarizing results and writing report | 1 month      | August 1st,2025  | 🔴 Not Started      |
 
 ---
 
