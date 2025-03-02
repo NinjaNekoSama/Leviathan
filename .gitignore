@@ -1,3 +1,6 @@
 POC
 *csv
 .idea/
+*.yaml
+venvs
+*.png
