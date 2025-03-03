@@ -4,3 +4,5 @@ POC
 *.yaml
 venvs
 *.png
+*.pyc
+__pycache__

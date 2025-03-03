@@ -25,7 +25,7 @@ This project aims to develop a robust toolkit for detecting killer whale (orca) 
 ---
 
 ## Tools and Technologies
-- **Programming Language**: Python = > 3.12 
+- **Programming Language**: Python == 3.10
 - **Libraries**: PyTorch, PyTorch Geometric (for GNNs), Librosa (for audio processing)
 - **Evaluation Metrics**: Precision, Recall, F1-Score, AUC-ROC
 
